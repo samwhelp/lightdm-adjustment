@@ -11,19 +11,15 @@
 
 | Config File Path |
 | --- |
-| [/etc/lightdm/lightdm.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm.conf.d/50_basic.conf) |
-| [/etc/lightdm/lightdm.conf.d/70_greeter.conf](./asset/overlay/etc/lightdm/lightdm.conf.d/70_greeter.conf) |
 | [/etc/lightdm/lightdm.conf](./asset/overlay/etc/lightdm/lightdm.conf) |
+| [/etc/lightdm/users.conf](./asset/overlay/etc/lightdm/users.conf) |
+| [/etc/lightdm/keys.conf](./asset/overlay/etc/lightdm/keys.conf) |
 
 
 ### lightdm-gtk-greeter
 
 | Config File Path |
 | --- |
-| [/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf) |
-| [/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/60_panel.conf) |
-| [/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/70_theme.conf) |
-| [/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/80_background.conf) |
 | [/etc/lightdm/lightdm-gtk-greeter.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf) |
 
 
