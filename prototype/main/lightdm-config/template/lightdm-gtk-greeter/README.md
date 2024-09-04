@@ -105,3 +105,35 @@ or
 ``` sh
 make config-install
 ```
+
+
+
+
+## Link
+
+
+### LightDM
+
+| LightDM |
+| ------- |
+| GitHub / [lightdm](https://github.com/canonical/lightdm) |
+| GitHub / [lightdm-settings](https://github.com/linuxmint/lightdm-settings) |
+
+
+
+
+### LightDM / Greeter / lightdm-gtk-greeter
+
+| LightDM Greeter |
+| --------------- |
+| GitHub / [lightdm-gtk-greeter](https://github.com/Xubuntu/lightdm-gtk-greeter) |
+| GitHub / [lightdm-gtk-greeter-settings](https://github.com/Xubuntu/lightdm-gtk-greeter-settings) |
+
+
+
+
+### Arch Wiki
+
+| Arch Wiki |
+| --------- |
+| [LightDM](https://wiki.archlinux.org/title/LightDM) |
