@@ -1,6 +1,6 @@
 
 
-# LightDM Simple Config
+# LightDM Demo Config / Gtk Greeter / Simple
 
 
 
