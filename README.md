@@ -4,4 +4,20 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Lightdm Adjustment](https://samwhelp.github.io/lightdm-adjustment/) | [GitHub](https://github.com/samwhelp/lightdm-adjustment) |
+| [LightDM Adjustment](https://samwhelp.github.io/lightdm-adjustment/) | [GitHub](https://github.com/samwhelp/lightdm-adjustment) |
+
+
+
+
+## Subject
+
+* [LightDM Config](#lightdm-config)
+
+
+
+
+## LightDM Config
+
+| LightDM Config |
+| -------------- |
+| [LightDM Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main) |
