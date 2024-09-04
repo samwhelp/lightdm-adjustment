@@ -20,4 +20,4 @@
 
 | LightDM Config |
 | -------------- |
-| [LightDM Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main) |
+| [LightDM Config](https://github.com/samwhelp/lightdm-adjustment/tree/main/prototype/main/lightdm-config) |
