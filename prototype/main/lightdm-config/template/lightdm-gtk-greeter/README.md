@@ -3,6 +3,14 @@
 
 
 
+## Show Config
+
+``` sh
+lightdm --show-config
+```
+
+
+
 
 ## Config File Path
 
