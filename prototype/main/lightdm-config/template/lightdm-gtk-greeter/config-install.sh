@@ -45,11 +45,11 @@ lightdm_config_install_by_each_file () {
 
 
 	lightdm_conf_install_by_each_file
-	lightdm_conf_d_install_by_each_file
+	#lightdm_conf_d_install_by_each_file
 
 
 	lightdm_gtk_greeter_conf_install_by_each_file
-	lightdm_gtk_greeter_conf_d_install_by_each_file
+	#lightdm_gtk_greeter_conf_d_install_by_each_file
 
 
 	return 0
@@ -66,6 +66,19 @@ lightdm_conf_install_by_each_file () {
 	echo
 	echo "sudo install -Dm644 ./asset/overlay/etc/lightdm/lightdm.conf /etc/lightdm/lightdm.conf"
 	sudo install -Dm644 "./asset/overlay/etc/lightdm/lightdm.conf" "/etc/lightdm/lightdm.conf"
+
+
+	return 0
+
+
+	echo
+	echo "sudo install -Dm644 ./asset/overlay/etc/lightdm/users.conf /etc/lightdm/users.conf"
+	sudo install -Dm644 "./asset/overlay/etc/lightdm/users.conf" "/etc/lightdm/users.conf"
+
+
+	echo
+	echo "sudo install -Dm644 ./asset/overlay/etc/lightdm/keys.conf /etc/lightdm/keys.conf"
+	sudo install -Dm644 "./asset/overlay/etc/lightdm/keys.conf" "/etc/lightdm/keys.conf"
 
 
 	return 0
