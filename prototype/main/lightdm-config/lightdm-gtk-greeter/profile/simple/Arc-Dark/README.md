@@ -19,14 +19,14 @@ lightdm --show-config
 
 | Config File Path |
 | --- |
-| [/etc/lightdm/lightdm.conf](./asset/overlay/etc/lightdm/lightdm.conf) |
+| [/etc/lightdm/lightdm.conf](./asset/overlay/etc/lightdm/lightdm.conf#L142) |
 
 
 ### lightdm-gtk-greeter
 
 | Config File Path |
 | --- |
-| [/etc/lightdm/lightdm-gtk-greeter.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf) |
+| [/etc/lightdm/lightdm-gtk-greeter.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf#L103) |
 
 
 
